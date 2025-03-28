@@ -1,0 +1,3 @@
+*.html linguist-documentation
+templates/* linguist-documentation
+*.css linguist-documentation
